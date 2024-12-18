@@ -1,19 +1,16 @@
 # Culinary Code
 
-Welcome to the **Culinary Code** repository overview! This document serves as a central point of reference for understanding the purpose and structure of the organization and its repositories. Please read through to get acquainted with our workflow, resources, and guidelines.
-
----
-
-## Purpose
-
-Our organization develops and maintains:
-- A mobile application for generating recipes, managing these recipes and much more.
-- Backend services to support the mobile application.
-- Infrastructure-as-code (IaC) resources to ensure scalable and maintainable deployments.
-
-This README provides an overview of the repositories and guidelines for contributing.
-
----
+<div style="display: flex; justify-content: space-around;">
+  <img src="../Screenshots/Homescreen.png" alt="Sign in screen" width="100">
+  <img src="../Screenshots/Home.png" alt="Home screen" width="100">
+  <img src="../Screenshots/RecipeGenerating.png" alt="Generate a recipe" width="100">
+  <img src="../Screenshots/RecipeDetail.png" alt="Recipe Detail 1" width="100">
+  <img src="../Screenshots/ViewReview.png" alt="Recipe Detail2" width="100">
+  <img src="../Screenshots/AddToMealplanner.png" alt="Add recipe to mealplanner" width="100">
+  <img src="../Screenshots/MealPlanner.png" alt="Meal planner" width="100">
+  <img src="../Screenshots/GroceryList.png" alt="Grocery list" width="100">
+  <img src="../Screenshots/Account.png" alt="Account screen" width="100">
+</div>
 
 ## Repository Overview
 
@@ -33,10 +30,6 @@ This README provides an overview of the repositories and guidelines for contribu
   - User interface development
   - Mobile app components
   - Integration with backend APIs
-- **Documentation**:
-  - Setup instructions
-  - Contributing guidelines
-  - Testing processes
 
 ### 3. **Backend**
 - **Description**: Backend services repository.
@@ -45,10 +38,6 @@ This README provides an overview of the repositories and guidelines for contribu
   - API development
   - Business logic implementation
   - Data storage and retrieval
-- **Documentation**:
-  - Setup instructions
-  - API reference
-  - Testing guidelines
 
 ### 4. **Infrastructure as Code (IaC)**
 - **Description**: Infrastructure automation and management repository.
@@ -57,28 +46,11 @@ This README provides an overview of the repositories and guidelines for contribu
   - Docker images
   - Docker Compose files
   - Deployment scripts and configurations
-- **Documentation**:
-  - Usage instructions
-
----
 
 ## Getting Started
 
-### Cloning Repositories
-- Each repository is independent but follows a common structure.
-- Clone the repositories as needed:
-  ```bash
-  git clone https://github.com/culinary-code/[repository-name].git
-  ```
-
-### Required Tools
-- **Frontend**: [Toolchain specific to your frontend stack]
-- **Backend**: [Toolchain specific to your backend stack]
-- **Infrastructure**: Docker
-
 Refer to the setup instructions in each repository for more details.
-
----
+Consult the wiki for a detailed instruction guide
 
 ## Contributing
 
@@ -86,8 +58,3 @@ We welcome contributions! Please follow these guidelines:
 - Read the [contribution guidelines](https://github.com/culinary-code/Algemeen/wiki/Contribution-Guidelines).
 - Follow coding standards and commit message conventions.
 - Submit pull requests with clear descriptions and adhere to the review process.
-
----
-
-Thank you for being a part of the **Culinary Code** community!
-
