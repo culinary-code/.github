@@ -1,4 +1,5 @@
 # Culinary Code
+This is a recipe app developed with the purpose of simplifying the process of looking for new things to try out. Additionally this app has a smart-grocerylist function built in that will compile the ingredients for planned meals into one list with an option to add or remove items. The images below give a quick overview of other functionality.
 
 <div style="display: flex; justify-content: space-around;">
   <img src="../Screenshots/Homescreen.png" alt="Sign in screen" width="100">
@@ -50,7 +51,7 @@
 ## Getting Started
 
 Refer to the setup instructions in each repository for more details.
-Consult the wiki for a detailed instruction guide
+Consult the wiki for a detailed instruction guide.
 
 ## Contributing
 
