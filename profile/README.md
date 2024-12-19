@@ -34,7 +34,7 @@ This is a recipe app developed with the purpose of simplifying the process of lo
 
 ### 3. **Backend**
 - **Description**: Backend services repository.
-- **Tech Stack**: .Net
+- **Tech Stack**: .NET
 - **Key Features**:
   - API development
   - Business logic implementation
